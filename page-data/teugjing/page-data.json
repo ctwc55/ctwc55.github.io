@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-other-pages-jsx",
+    "path": "/teugjing",
+    "result": {"data":{"datoCmsOtherPage":{"locale":"ko-KR","seo":{"seoTitle":"특징","seoDescription":"특징에 대한 설명들","seoImage":null},"structuredBody":{"value":{"schema":"dast","document":{"type":"root","children":[{"type":"paragraph","children":[{"type":"span","value":"특징입니다"}]}]}},"blocks":[]}}},"pageContext":{"id":"4743033","locale":"ko-KR"}},
+    "staticQueryHashes": ["1118752904","2342916782","2757196681","3415878905","3879866231","4195094990"]}

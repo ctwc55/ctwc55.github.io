@@ -1,0 +1,24 @@
+{
+  "name": "CTWC 블로그",
+  "short_name": "CTWC 블로그",
+  "lang": "ko-KR",
+  "display": "standalone",
+  "start_url": "/ko-KR/",
+  "theme_color": "#0067fa",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "cacheDigest": null
+}
