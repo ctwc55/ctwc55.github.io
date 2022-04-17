@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ctwc55.github.io/sitemap/sitemap-index.xml
+Host: https://ctwc55.github.io
