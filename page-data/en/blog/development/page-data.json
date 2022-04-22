@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-category-jsx",
     "path": "/en/blog/development",
-    "result": {"data":{"datoCmsCategory":{"locale":"en","seo":{"seoTitle":"Development","seoDescription":"Archive for studying cs, languages, frameworks, tools, etc.","seoImage":{"seoImageUrl":"https://www.datocms-assets.com/66479/1645219648-cover-development.jpg?auto=format"}},"hero":[{"heroTitle":"Development","heroSubtitle":"Archive for studying cs, languages, frameworks, tools, etc.","heroAlt":"Category"}]},"allCategoryPosts":{"postNodes":[]}},"pageContext":{"id":"4743072","locale":"en"}},
+    "result": {"data":{"datoCmsCategory":{"locale":"en","seo":{"seoTitle":"Development","seoDescription":"Archive for studying cs, languages, frameworks, tools, etc.","seoImage":{"seoImageUrl":"https://www.datocms-assets.com/66479/1649921599-ctwc.png?auto=format"}},"hero":[{"heroTitle":"Development","heroSubtitle":"Archive for studying cs, languages, frameworks, tools, etc.","heroAlt":"Category"}]},"allCategoryPosts":{"postNodes":[]}},"pageContext":{"id":"4743072","locale":"en"}},
     "staticQueryHashes": ["1118752904","1361994992","2342916782","2757196681","3415878905","3879866231","4195094990"]}
