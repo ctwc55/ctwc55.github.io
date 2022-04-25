@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-jsx",
+    "path": "/blog/chit-chat",
+    "result": {"data":{"datoCmsCategory":{"locale":"ko-KR","seo":{"seoTitle":"사담","seoDescription":"가볍게 적어보는 저의 생각들","seoImage":{"seoImageUrl":"https://www.datocms-assets.com/66479/1649921599-ctwc.png?auto=format"}},"hero":[{"heroTitle":"사담","heroSubtitle":"가볍게 적어보는 저의 생각들","heroAlt":"사담"}]},"allCategoryPosts":{"postNodes":[]}},"pageContext":{"id":"8795185","locale":"ko-KR"}},
+    "staticQueryHashes": ["1118752904","1361994992","2342916782","2757196681","3415878905","3879866231","4195094990"]}
