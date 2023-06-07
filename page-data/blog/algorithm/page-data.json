@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-category-jsx",
     "path": "/blog/algorithm",
-    "result": {"data":{"datoCmsCategory":{"locale":"ko-KR","seo":{"seoTitle":"알고리즘","seoDescription":"알고리즘을 열심히 공부해보자!","seoImage":{"seoImageUrl":"https://www.datocms-assets.com/66479/1649921599-ctwc.png?auto=format"}},"hero":[{"heroTitle":"알고리즘","heroSubtitle":"알고리즘과 관련하여 공부한 내용을 기록합니다.","heroAlt":"범주"}]},"allCategoryPosts":{"postNodes":[]}},"pageContext":{"id":"4743071","locale":"ko-KR"}},
+    "result": {"data":{"datoCmsCategory":{"locale":"ko-KR","seo":{"seoTitle":"알고리즘","seoDescription":"알고리즘과 관련하여 공부한 내용을 기록합니다.","seoImage":{"seoImageUrl":"https://www.datocms-assets.com/66479/1649921599-ctwc.png?auto=format"}},"hero":[{"heroTitle":"알고리즘","heroSubtitle":"알고리즘과 관련하여 공부한 내용을 기록합니다.","heroAlt":"범주"}]},"allCategoryPosts":{"postNodes":[]}},"pageContext":{"id":"4743071","locale":"ko-KR"}},
     "staticQueryHashes": ["1118752904","1361994992","2342916782","2757196681","3415878905","3879866231","4195094990"]}
