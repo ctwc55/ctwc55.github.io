@@ -3,7 +3,7 @@ import { graphql } from 'gatsby';
 import { StructuredText } from 'react-datocms';
 import { Navigator } from '../components/LanguageHelpers/Navigator';
 import { PageWrapper } from '../components/Layout/PageWrapper';
-import { Hero } from '../components/Layout/Hero';
+import { Hero } from '../components/Layout/HeroOtherPages';
 import {
   SectionContainerGridThreeCols,
   SectionContainerFlexTwoCols,

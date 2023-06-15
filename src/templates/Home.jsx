@@ -1,7 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import { PageWrapper } from '../components/Layout/PageWrapper';
-import { Hero } from '../components/Layout/Hero';
+import { Hero } from '../components/Layout/HeroHome';
 import {
   SectionContainerGridThreeCols,
   SectionWrapper,

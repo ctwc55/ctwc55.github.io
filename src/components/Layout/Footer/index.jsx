@@ -20,9 +20,22 @@ const FooterContainer = styled.div`
   }
 `;
 
-const FooterColumn = styled.div`
+const FooterColumnLeft = styled.div`
   font-size: var(--baseS);
-  text-align: center;
+  text-align: start;
+
+  & a {
+    color: var(--primaryColor);
+
+    @media (hover: hover) {
+      text-decoration: underline;
+    }
+  }
+`;
+
+const FooterColumnRight = styled.div`
+  font-size: var(--baseS);
+  text-align: end;
 
   & a {
     color: var(--primaryColor);
@@ -70,12 +83,12 @@ export const Footer = () => {
               textRight: { value: textRightValue },
             }) => (
               <Fragment key={id}>
-                <FooterColumn>
+                <FooterColumnLeft>
                   <StructuredText data={textLeftValue} />
-                </FooterColumn>
-                <FooterColumn>
+                </FooterColumnLeft>
+                <FooterColumnRight>
                   <StructuredText data={textRightValue} />
-                </FooterColumn>
+                </FooterColumnRight>
               </Fragment>
             )
           )}

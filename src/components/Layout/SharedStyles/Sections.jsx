@@ -142,7 +142,7 @@ export const ColumnFlexTwoCols = styled.div`
     justify-content: flex-start;
 
     & img {
-      width: ${({ hasImg }) => hasImg && '150px'};
+      width: ${({ hasImg }) => hasImg && '300px'};
     }
   }
 `;
@@ -151,6 +151,12 @@ export const TextBox = styled.section`
   display: grid;
   row-gap: ${({ small }) => (small ? 'var(--gapSmall)' : 'var(--gapRegular)')};
   align-content: baseline;
+
+  &&& a {
+    color: SteelBlue;
+    text-decoration: none;
+    padding-bottom: 3px;
+  }
 `;
 
 export const Divider = styled.hr`

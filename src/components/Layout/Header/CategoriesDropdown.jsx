@@ -10,6 +10,7 @@ import {
 // Scoped styles
 
 const CategoriesMenuListItem = styled.li`
+  white-space:nowrap;
   position: relative;
   display: flex;
   align-items: center;

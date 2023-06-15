@@ -2,7 +2,7 @@ const isDev = process.env.NODE_ENV === 'development';
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://headlessmultilingual.gatsbyjs.io',
+    siteUrl: 'https://ctwc55.github.io',
   },
   plugins: [
     {
@@ -28,10 +28,26 @@ module.exports = {
     {
       resolve: 'gatsby-source-datocms',
       options: {
-        apiToken: '87cdc55b15aa843368e8df1531e7b4',
+        apiToken: '7a32f9341f5f7f9316100c68d0d3b4',
         localeFallbacks: {
-          'ar-AE': 'en',
+          'ko-KR': 'ko-KR',
+          'en': 'ko-KR',
         },
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-gtag',
+      options: {
+        trackingId: 'G-H6EJ4TNHBT',
+        head: false,
+        anonymize: true,
+      },
+    },
+    'gatsby-plugin-advanced-sitemap',
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        sitemap: 'https://ctwc55.github.io/sitemap.xml',
       },
     },
   ],
