@@ -2,6 +2,8 @@ import { createGlobalStyle } from 'styled-components';
 import { easeOutTiming } from './animations';
 
 export const GlobalStyle = createGlobalStyle`
+    @import url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo.css');
+
     :root {
         --globalContainer: 1100px;
         --articleContainer: 700px;
@@ -14,7 +16,7 @@ export const GlobalStyle = createGlobalStyle`
         --gapXL: 60px;
         --borderRegular: 2px;
         --borderSmall: 1px;
-        --defaultStack: -apple-system, BlinkMacSystemFont, "Helvetica", "Helvetica Neue", "Arial", sans-serif;
+        --defaultStack: "NanumSquareNeo", -apple-system, BlinkMacSystemFont, "Helvetica", "Helvetica Neue", "Arial", sans-serif;
         --defaultCodeStack: ui-monospace, "Cascadia Mono", "Segoe UI Mono", "Ubuntu Mono", "Roboto Mono", Menlo, Monaco, Consolas, monospace;
         --headingXXL: 3.25rem; /* 52px */
         --headingXL: 2.625rem;  /* 42px */
