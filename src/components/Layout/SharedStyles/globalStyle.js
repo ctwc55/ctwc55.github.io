@@ -27,7 +27,7 @@ export const GlobalStyle = createGlobalStyle`
         --baseL: 1.125rem; /* 18px */
         --baseM: 1rem; /* 16px */
         --baseS: .815rem; /* 14px */
-        --baseMMobile: calc(var(--baseM) * 1.1);
+        --baseMMobile: calc(var(--baseM) * 1.05);
         --baseSMobile: calc(var(--baseS) * 1.1);
         --headingsLineHeight: 1.1;
         --bodyLineHeight: 1.5;
@@ -53,9 +53,9 @@ export const GlobalStyle = createGlobalStyle`
     .lightTheme {
         --primaryColor: #0067FA;
         --headingsColor: #4D4D4D;
-        --baseTextColor:#6E7581;
+        --baseTextColor:#3F3844; /* Original: #6E7581 */
         --dividerColor: #E2E2E2;
-        --markBackgroundColor: #FDFFB4;
+        --markBackgroundColor: #FBEC77; /* Original: #FDFFB4 */
         --markTextColor: #4D4D4D;
         --inlineCodeTextColor: #4D4D4D;
         --inlineCodeBackgroundColor: #DBEFFF;
