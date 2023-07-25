@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-category-jsx","path":"/blog/travel","result":{"data":{"datoCmsCategory":{"locale":"ko-KR","seo":{"seoTitle":"여행","seoDescription":"오늘도 어딘가로 떠나보자!","seoImage":{"seoImageUrl":"https://www.datocms-assets.com/66479/1656945399-travel-cover.jpg?auto=format"}},"hero":[{"heroTitle":"여행","heroSubtitle":"오늘도 어딘가로 떠나보자!","heroAlt":"범주"}]},"allCategoryPosts":{"postNodes":[]}},"pageContext":{"id":"32976317","locale":"ko-KR"}},"staticQueryHashes":["1118752904","1361994992","2342916782","2757196681","3415878905","3879866231","4195094990"]}
+{
+    "componentChunkName": "component---src-templates-category-jsx",
+    "path": "/blog/travel",
+    "result": {"data":{"datoCmsCategory":{"locale":"ko-KR","seo":{"seoTitle":"여행","seoDescription":"오늘도 어딘가로 떠나보자!","seoImage":{"seoImageUrl":"https://www.datocms-assets.com/66479/1656945399-travel-cover.jpg?auto=format"}},"hero":[{"heroTitle":"여행","heroSubtitle":"오늘도 어딘가로 떠나보자!","heroAlt":"범주"}]},"allCategoryPosts":{"postNodes":[]}},"pageContext":{"id":"32976317","locale":"ko-KR"}},
+    "staticQueryHashes": ["1118752904","1361994992","2342916782","2757196681","3415878905","3879866231","4195094990"]}
