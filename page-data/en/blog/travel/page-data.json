@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-templates-category-jsx",
-    "path": "/en/blog/travel",
-    "result": {"data":{"datoCmsCategory":{"locale":"en","seo":{"seoTitle":"Travel","seoDescription":"Travel holic","seoImage":{"seoImageUrl":"https://www.datocms-assets.com/66479/1656945399-travel-cover.jpg?auto=format"}},"hero":[{"heroTitle":"Travel","heroSubtitle":"Travel holic","heroAlt":"Category"}]},"allCategoryPosts":{"postNodes":[]}},"pageContext":{"id":"32976317","locale":"en"}},
-    "staticQueryHashes": ["1118752904","1361994992","2342916782","2757196681","3415878905","3879866231","4195094990"]}
+{"componentChunkName":"component---src-templates-category-jsx","path":"/en/blog/travel","result":{"data":{"datoCmsCategory":{"locale":"en","seo":{"seoTitle":"Travel","seoDescription":"Travel holic","seoImage":{"seoImageUrl":"https://www.datocms-assets.com/66479/1656945399-travel-cover.jpg?auto=format"}},"hero":[{"heroTitle":"Travel","heroSubtitle":"Travel holic","heroAlt":"Category"}]},"allCategoryPosts":{"postNodes":[]}},"pageContext":{"id":"32976317","locale":"en"}},"staticQueryHashes":["1118752904","1361994992","2342916782","2757196681","3415878905","3879866231","4195094990"]}
