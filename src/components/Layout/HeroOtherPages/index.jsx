@@ -27,7 +27,7 @@ const HeroTextBox = styled.div`
   display: grid;
   grid-template-columns: 1fr;
   row-gap: var(--gapRegular);
-  width: 530;
+  width: 530px;
   justify-items: ${({ centered }) => centered && 'center'};
   @media screen and (max-width: 767px) {
     width: 100%;
