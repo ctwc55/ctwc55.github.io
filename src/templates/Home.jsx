@@ -145,7 +145,7 @@ export const query = graphql`
         noTranslate: { ne: true }
         categoryLink: { noTranslate: { ne: true } }
       }
-      sort: { order: ASC, fields: meta___updatedAt }
+      sort: { order: DESC, fields: meta___updatedAt }
       limit: 6
     ) {
       postNodes: nodes {

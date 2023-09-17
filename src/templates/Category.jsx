@@ -95,7 +95,7 @@ export const query = graphql`
         noTranslate: { ne: true }
         categoryLink: { originalId: { eq: $id } }
       }
-      sort: { order: ASC, fields: meta___updatedAt }
+      sort: { order: DESC, fields: meta___updatedAt }
     ) {
       postNodes: nodes {
         locale
